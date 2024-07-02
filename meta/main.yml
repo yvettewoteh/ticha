@@ -1,7 +1,7 @@
 galaxy_info:
-  author: your name
-  description: your role description
-  company: your company (optional)
+  author: yvette woteh
+  description: ansible testing
+  company: your company (paradigm)
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
